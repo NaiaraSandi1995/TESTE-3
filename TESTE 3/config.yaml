@@ -1,4 +1,5 @@
 baseURL: https://example.com/
+publishDIR: docs
 languageCode: en-US
 title: Chris Turner
 disqusShortname: ''
