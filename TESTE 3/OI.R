@@ -11,7 +11,9 @@ blogdown::build_site()
 # 3
 # usethis::use_github()
 
-
+usethis::use_github()
+usethis::use_git_remote("origin", url = NULL, overwrite = TRUE)
+usethis::use_github()
 # git add .
 # git commit -m "Update"
 # git push 
